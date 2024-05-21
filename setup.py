@@ -5,10 +5,10 @@ setup(
     version='0.1.0',
     author='Krishna Agarwal',
     author_email='krishnacool781@gmail.com',
-    description='Type different strings from different planets',
+    description='A package that greets from various planets',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/your_package',
+    url='https://github.com/krishnaagarwal781/hello_mars',
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
